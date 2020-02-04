@@ -1,1 +1,3 @@
 # StepicAutoTestsCourse
+tests
+tests
